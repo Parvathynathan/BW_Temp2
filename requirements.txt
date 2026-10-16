@@ -1,0 +1,8 @@
+pandas
+openpyxl
+Pillow
+xlrd
+
+
+
+
